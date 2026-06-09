@@ -18,3 +18,7 @@ When motion is detected, the PIR sensor sends a HIGH signal to Arduino. Arduino 
 
 ## Author
 Yogesh Kumar# Task2-PIR-Motion-Detection-System
+## Wokwi Simulation
+
+Project Link:
+https://wokwi.com/projects/466371357565554689
